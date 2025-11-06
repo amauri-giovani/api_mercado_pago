@@ -1,0 +1,25 @@
+{
+    "paging": {
+        "total": 1,
+        "offset": 0,
+        "limit": 30
+    },
+    "results": [
+        {
+            "user_id": 2346461968,
+            "name": "POS teste",
+            "fixed_amount": true,
+            "store_id": "66496421",
+            "external_id": "PgtoQRCode01",
+            "id": 111262002,
+            "qr": {
+                "image": "https://www.mercadopago.com/instore/merchant/qr/111262002/23a13f69797147ca8298dbadf28c69428d7797bcf9824375aeeb138d2d0534a4.png",
+                "template_document": "https://www.mercadopago.com/instore/merchant/qr/111262002/template_23a13f69797147ca8298dbadf28c69428d7797bcf9824375aeeb138d2d0534a4.pdf",
+                "template_image": "https://www.mercadopago.com/instore/merchant/qr/111262002/template_23a13f69797147ca8298dbadf28c69428d7797bcf9824375aeeb138d2d0534a4.png"
+            },
+            "date_created": "2025-03-22T23:09:40.000-04:00",
+            "date_last_updated": "2025-03-22T23:09:40.000-04:00",
+            "external_store_id": "2797"
+        }
+    ]
+}

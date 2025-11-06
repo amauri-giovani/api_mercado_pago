@@ -1,0 +1,16 @@
+{
+    "action": "update",
+    "application_id": "8696493080820589",
+    "data": {
+        "currency_id": "",
+        "marketplace": "NONE",
+        "status": "closed"
+    },
+    "date_created": "2025-03-23T17:43:02.222-04:00",
+    "id": "29831482570",
+    "live_mode": false,
+    "status": "closed",
+    "type": "topic_merchant_order_wh",
+    "user_id": 2346461968,
+    "version": 1
+}

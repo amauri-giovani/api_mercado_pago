@@ -1,0 +1,61 @@
+{
+    "id": 29834423088,
+    "status": "closed",
+    "external_reference": "order-id-0001",
+    "preference_id": "2346461968-2bd6c4df-9853-42c5-bfb6-9fdee603cf8e",
+    "payments": [
+        {
+            "id": 105717876783,
+            "transaction_amount": 15,
+            "total_paid_amount": 15,
+            "shipping_cost": 0,
+            "currency_id": "BRL",
+            "status": "approved",
+            "status_detail": "accredited",
+            "operation_type": "regular_payment",
+            "date_approved": "2025-03-23T19:47:03.000-04:00",
+            "date_created": "2025-03-23T19:47:03.000-04:00",
+            "last_modified": "2025-03-23T19:47:03.000-04:00",
+            "amount_refunded": 0
+        }
+    ],
+    "shipments": [],
+    "payouts": [],
+    "collector": {
+        "id": 2346461968,
+        "email": "",
+        "nickname": "TESTUSER1315019217"
+    },
+    "marketplace": "NONE",
+    "notification_url": null,
+    "date_created": "2025-03-23T19:43:32.568-04:00",
+    "last_updated": "2025-03-23T19:47:03.750-04:00",
+    "sponsor_id": null,
+    "shipping_cost": 0,
+    "total_amount": 15,
+    "site_id": "MLB",
+    "paid_amount": 15,
+    "refunded_amount": 0,
+    "payer": {
+        "id": 2342837141,
+        "email": ""
+    },
+    "items": [
+        {
+            "id": "",
+            "category_id": "Lanche",
+            "currency_id": "BRL",
+            "description": "Lanche com pão, presunto e queijo",
+            "picture_url": null,
+            "title": "Misto quente",
+            "quantity": 1,
+            "unit_price": 15
+        }
+    ],
+    "cancelled": false,
+    "additional_info": "",
+    "application_id": null,
+    "is_test": true,
+    "order_status": "paid",
+    "client_id": "8696493080820589"
+}

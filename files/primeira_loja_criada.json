@@ -1,0 +1,17 @@
+{
+    "id": "66496421",
+    "name": "Primeira Loja Criada",
+    "date_creation": "2025-03-22T22:56:38.263Z",
+    "location": {
+        "address_line": "R. Xavantes, Tupi 138, 11703300, Praia Grande, São Paulo, Brasil",
+        "reference": "Sabesp",
+        "latitude": -24.022737889019133,
+        "longitude": -46.46011466086606,
+        "id": "BR-SP-22",
+        "type": "city",
+        "city": "Praia Grande",
+        "state_id": "BR-SP",
+        "zip_code": "11703300"
+    },
+    "external_id": "2797"
+}
